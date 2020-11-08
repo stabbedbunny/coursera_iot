@@ -1,3 +1,5 @@
+TESTER
+
 # to build the docker image execute the followingn command in this directory
 
 docker build -t ibm_grader.v1.1 .
